@@ -63,7 +63,6 @@ While 2D games are easier and faster to develop, **I chose 3D for a more immersi
 |-----------------------------------------------|------------------------------|----------------------------------|-------------|
 | **No game dev or programming experience**     | 6 months – 2 years           | 1–2 years                        | [Unreal Engine Forums](https://forums.unrealengine.com/t/how-long-to-became-good-with-the-engine/99737) |
 | **Programming knowledge, but no game dev experience** | 1–3 months | 3–6 months | [Kevuru Games](https://kevurugames.com/blog/how-long-does-it-take-to-make-a-game/) |
-| **Experienced developer**                     | A few weeks                  | 1–3 months                        | [GameMaker Blog](https://gamemaker.io/en/blog/how-long-to-make-a-game) |
 
 
 <br>
