@@ -3,4 +3,4 @@
 
 
 
-![Astroguard Menu](assets/media/astromenugif.gif)
+![Astroguard Menu](astromenugif.gif)
