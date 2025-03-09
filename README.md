@@ -23,24 +23,19 @@ I chose **3D over 2D** because **adults tend to find 3D games more engaging**. T
 
 <br>
 
-<br>
-
 ## Astroguard Walkthrough
-**Astroguard Menu**
+
+### Astroguard Menu
 ![Astroguard Menu](assets/media/astromenugif.gif)
 
-
-
-**Astroguard Level Menu**
+### Astroguard Level Menu
 ![Astroguard Level Menu](assets/media/levelmenu.gif)
 
-
-**Astroguard Walkthrough High-Speed**
-The gif below is a 4 minute video condensed into 15 seconds.
-![Astroguard Level Menu](assets/media/astroguardspedup.gif)
+### Astroguard Walkthrough High-Speed
+The GIF below condenses a 4-minute video into 15 seconds, showcasing a fast-paced overview of the gameplay.
+![Astroguard Walkthrough High-Speed](assets/media/astroguardspedup.gif)
 
 <br>
-
 
 
 ## Why Unreal Engine?  
