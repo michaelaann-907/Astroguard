@@ -5,7 +5,8 @@ Astroguard is a **3D cybersecurity training game** designed to help players lear
 <br>
 
 ## Table of Contents  
-- [Project Overview](#project-overview)  
+- [Project Overview](#project-overview)
+- [Astroguard Walkthrough](#game)
 - [Why Unreal Engine?](#why-unreal-engine)  
 - [Game Engine Comparison](#game-engine-comparison)  
 - [2D vs. 3D Complexity](#2d-vs-3d-complexity)  
@@ -13,17 +14,6 @@ Astroguard is a **3D cybersecurity training game** designed to help players lear
 - [CS Department Support](#cs-department-support)  
 - [Sources](#sources)  
 
-<br>
-
-## Game Menu
-![Astroguard Menu](assets/media/astromenugif.gif)
-
-<br>
-
-## Level Menu
-![Astroguard Level Menu](assets/media/levelmenu.gif)
-
-<br>
 
 ## Project Overview  
 
@@ -32,6 +22,26 @@ Astroguard immerses players in **real-world cybersecurity scenarios**, where the
 I chose **3D over 2D** because **adults tend to find 3D games more engaging**. The added depth and interactivity make security tasks feel more **realistic**, enhancing the learning experience.
 
 <br>
+
+<br>
+
+## Astroguard Walkthrough
+**Astroguard Menu**
+![Astroguard Menu](assets/media/astromenugif.gif)
+
+
+
+**Astroguard Level Menu**
+![Astroguard Level Menu](assets/media/levelmenu.gif)
+
+
+**Astroguard Walkthrough High-Speed**
+The gif below is a 4 minute video condensed into 15 seconds.
+![Astroguard Level Menu](assets/media/astroguardspedup.gif)
+
+<br>
+
+
 
 ## Why Unreal Engine?  
 
