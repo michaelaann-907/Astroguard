@@ -6,9 +6,9 @@
 ![Astroguard Menu](astromenugif.gif)
 
 
-![Astroguard Level Menu](assets/media/levelmenu.gif)
+![Astroguard Level Menu](levelmenu.gif)
 
 
-![Astroguard Walkthrough High-Speed](assets/media/astroguardspedup.gif)
+![Astroguard Walkthrough High-Speed](astroguardspedup.gif)
 
 
