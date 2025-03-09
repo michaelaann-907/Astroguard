@@ -15,6 +15,11 @@ Astroguard is a **3D cybersecurity training game** designed to help players lear
 
 <br>
 
+## Game Menu
+![Astroguard Menu](assets/media/astromenugif.gif)
+
+<br>
+
 ## Project Overview  
 
 Astroguard immerses players in **real-world cybersecurity scenarios**, where they must complete tasks that reinforce security principles. The goal was to create a more engaging and **hands-on approach** to learning cybersecurity concepts rather than relying solely on text-based instruction.
