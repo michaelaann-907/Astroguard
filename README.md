@@ -6,7 +6,7 @@ Astroguard is a **3D cybersecurity training game** designed to help players lear
 
 ## Table of Contents  
 - [Project Overview](#project-overview)
-- [Astroguard Walkthrough](#game)
+- [Astroguard Walkthrough](#astroguard-walkthrough)
 - [Why Unreal Engine?](#why-unreal-engine)  
 - [Game Engine Comparison](#game-engine-comparison)  
 - [2D vs. 3D Complexity](#2d-vs-3d-complexity)  
